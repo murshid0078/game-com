@@ -1,0 +1,4 @@
+a="!!!!murshid!!!!!!!@@@@@"
+print(a.rstrip("@"))
+blogHeading="introduction to js"
+print(blogHeading.capitalize())
